@@ -15,7 +15,7 @@ Users can be able to:
 
 ## Page Link 🔗
 
-- Solution URL: []
+- Project URL: [https://zomato-landing-page-git-master-ganeshkumar22.vercel.app/]
 
 ## Built with 🏨
 
